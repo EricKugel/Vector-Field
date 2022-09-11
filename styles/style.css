@@ -1,0 +1,23 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #222222;
+        color: white;
+    }
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#author {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+#buttonPanel {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
